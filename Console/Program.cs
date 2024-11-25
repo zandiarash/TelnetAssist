@@ -1,8 +1,8 @@
 ﻿
-string hostname = "192.168.30.204";
+string hostname = "192.168.1.20";
 int port = 23; // Telnet port or any TCP port
-string username = "iman";
-string password = "P@ssw0rd";
+string username = "adminUser";
+string password = "adminPassword";
 
 try
 {

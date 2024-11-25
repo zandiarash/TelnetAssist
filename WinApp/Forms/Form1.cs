@@ -40,9 +40,9 @@ namespace Telnet
             panel2.Visible = false;
             textBox2.UseSystemPasswordChar = true;
             textBox2.PasswordChar = '●';
-            textBox3.Text = "192.168.30.204";
-            textBox1.Text = "iman";
-            textBox2.Text = "P@ssw0rd";
+            textBox3.Text = "192.168.1.20";
+            textBox1.Text = "adminUser";
+            textBox2.Text = "adminPassword";
             label1.Text = "&Ready";
         }
 
